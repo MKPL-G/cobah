@@ -14,6 +14,7 @@ public class konsumen {
     private String alamat;
     private String nohp;
     private String alamaattt;
+    private String coba;
 
     public konsumen(String nama, String alamat, String nohp) {
         this.nama = nama;
